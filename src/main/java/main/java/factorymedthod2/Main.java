@@ -1,7 +1,4 @@
-package factorymedthod2;
-
-import main.java.factorymedthod2.GetPlanFactory;
-import main.java.factorymedthod2.Plan;
+package main.java.factorymedthod2;
 
 public class Main {
     public static void main(String[] args) {
