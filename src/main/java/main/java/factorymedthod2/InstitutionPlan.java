@@ -1,8 +1,8 @@
 package main.java.factorymedthod2;
 
 public class InstitutionPlan extends Plan {
-    // @Override
+    @Override
     public void getRate() {
-        rate = 5.50;
+        this.rate = 5.50;
     }
 }

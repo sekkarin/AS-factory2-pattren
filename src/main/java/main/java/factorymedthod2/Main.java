@@ -5,6 +5,7 @@ public class Main {
         System.out.println("Hello world!");
         GetPlanFactory planFactory = new GetPlanFactory();
         Plan p = planFactory.getPlan("DomesticPlan");
-        p.calculateBill(500);
+        // System.out.println(planFactory);
+        p.calculateBill(2);
     }
 }
